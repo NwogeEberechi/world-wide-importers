@@ -1,4 +1,4 @@
-# vue3pro
+# world-wide-importers
 
 ## Project setup
 ```
